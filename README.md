@@ -1,4 +1,4 @@
-👋 Hi, I’m @Hoosep
+Hi, I'm Hoose  👋
 
 <!---
 Hoosep/Hoosep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
